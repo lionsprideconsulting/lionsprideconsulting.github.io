@@ -127,7 +127,7 @@ img::-moz-selection {
 }
 
 #mainNav .navbar-brand {
-  color: #9bd4ff;
+  color: #1072BD;
   font-family: 'Merriweather', 'Helvetica Neue', Helvetica, Arial;
 }
 
@@ -150,13 +150,13 @@ img::-moz-selection {
 
 @media (min-width: 992px) {
   #mainNav {
-    padding-top: 25px;
-    padding-bottom: 25px;
+    padding-top: 8px;
+    padding-bottom: 8px;
     -webkit-transition: padding-top 0.3s, padding-bottom 0.3s;
     -moz-transition: padding-top 0.3s, padding-bottom 0.3s;
     transition: padding-top 0.3s, padding-bottom 0.3s;
     border: none;
-    background-color: transparent;
+    background-color: #212529;
   }
   #mainNav .navbar-brand {
     font-size: 1.75em;
