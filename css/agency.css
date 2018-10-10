@@ -72,6 +72,7 @@ section h3.section-subheading {
 .btn-primary {
   background-color: #1072BD;
   border-color: #1072BD;
+  color: white;
 }
 
 .btn-primary:active, .btn-primary:focus, .btn-primary:hover {
@@ -126,7 +127,7 @@ img::-moz-selection {
 }
 
 #mainNav .navbar-brand {
-  color: #1072BD;
+  color: #9bd4ff;
   font-family: 'Merriweather', 'Helvetica Neue', Helvetica, Arial;
 }
 
@@ -180,7 +181,7 @@ img::-moz-selection {
 header.masthead {
   text-align: center;
   color: white;
-  background-image: url("../img/black.jpg");
+  background-image: url("../img/_MG_0544.jpg");
   background-repeat: no-repeat;
   background-attachment: scroll;
   background-position: center center;
@@ -201,6 +202,7 @@ header.masthead .intro-text .intro-lead-in {
   line-height: 22px;
   margin-bottom: 25px;
   font-family: 'Droid Serif', 'Helvetica Neue', Helvetica, Arial, sans-serif;
+  color: white;
 }
 
 header.masthead .intro-text .intro-heading {
